@@ -1,0 +1,10 @@
+
+
+# Identifier
+*.Identifier
+
+#some files
+packages.txt
+
+# virtual-environments
+python-virtual-environments/
